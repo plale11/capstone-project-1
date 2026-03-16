@@ -1,0 +1,5 @@
+civilization,river,region,environment_type,settlement_type,food_source,food_storage,irrigation,community_structure,labor_division,agriculture,religion,political_structure
+Mesopotamia,Tigris-Euphrates,Middle East,River valley,Permanent settlement,Agriculture and animal husbandry,Granaries,Yes,Urban community,Developed,Irrigation farming,Ziggurat temples,City kingdoms
+Egypt,Nile,North Africa,Predictable flooding,Permanent settlement,Agriculture and fishing,State storage,Yes,Centralized community,Developed,Basin irrigation,Temple complexes,Pharaoh monarchy
+Indus Valley,Indus,South Asia,River basin,Permanent settlement,Agriculture and trade,Stored surplus,Yes,Planned urban community,Developed,Advanced agriculture,Ritual baths,Urban governance
+Yellow River,Huang He,East Asia,Floodplain,Permanent settlement,Agriculture and animal husbandry,Stored grain,Yes,Clan-based community,Developed,River irrigation,Ancestral temples,Dynastic rule

@@ -1,6 +1,6 @@
 from data_loader import load_civilization_data
 from analysis import analyze_settlement, analyze_food_system, analyze_community
-from visualization import plot_food_storage, plot_community_structure
+from visualization import plot_food_storage_grouped, plot_settlement_vs_food
 
 
 def main():
@@ -12,8 +12,8 @@ def main():
     analyze_food_system(df)
     analyze_community(df)
 
-    plot_food_storage(df)
-    plot_community_structure(df)
+    plot_food_storage_grouped(df)
+    plot_settlement_vs_food(df)
 
 
 if __name__ == "__main__":
